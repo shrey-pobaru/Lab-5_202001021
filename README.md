@@ -1,6 +1,7 @@
 # Lab-5_202001021
 
 Static analysis checker used here is **mypy**
+The file used for purpose of static checking is **test.py**, which is also present in the repo by the same name
 
 ## error 1:
 
