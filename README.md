@@ -2,9 +2,11 @@
 
 Name: **Shrey Pobaru**
 
-Static analysis checker used here is **mypy**
+Static analysis checker used here is **mypy**.
 
-The file used for purpose of static checking is **test.py**, which is also present in the repo by the same name
+The file used for purpose of static checking is **test.py**, which is also present in the repo by the same name.
+
+These are the screenshots of errors which mypy provided.
 
 ## error 1:
 
@@ -37,4 +39,10 @@ if statement was not indented properly
 a colon was missing
 
 ![image](https://user-images.githubusercontent.com/92992374/225275268-87fca54f-ef62-4b04-bd87-2e7fb6ccbe00.png)
+
+## error 6:
+
+closing bracket not found
+
+![image](https://user-images.githubusercontent.com/92992374/225282636-f07eeeb0-d5d0-4a3b-9204-beb9472aea1e.png)
 
