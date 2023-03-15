@@ -1,5 +1,7 @@
 # Lab-5_202001021
 
+Static analysis checker used here is **mypy**
+
 ## error 1:
 
 ![image](https://user-images.githubusercontent.com/92992374/225270995-04cab5f9-e42d-4f9e-a038-06107ea6c983.png)
